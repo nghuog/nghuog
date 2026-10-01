@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 🍢 My favorite food is **nem nướng**.
-- 🎮 I enjoy cozy games and pixel art.
-- 🌱 I'm learning PHP and building projects with web and embedded systems.
+- 🎓 Engineering student.
+- 🐧 I love **LINUX**.
+- 🍢 I love **NEM NUONG** and I'm marrying it soon
 
 ## Socials
 
