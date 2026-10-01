@@ -8,12 +8,12 @@
 
 ## Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/your-username)
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=white)](https://facebook.com/your-username)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/nghuog5)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=white)](https://www.facebook.com/share/1GjgJHKhff/?mibextid=wwXIfr)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/your-user-id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Zalo](https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=white)](https://zalo.me/your-phone-number)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@your-username)
+[![Zalo](https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=white)](https://zalo.me/0342729614)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@cuto699)
 
 ## Tech Stack
 
