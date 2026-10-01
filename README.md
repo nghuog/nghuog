@@ -1,4 +1,4 @@
-![Pixel art profile banner](./assets/profile-banner.jpg)
+![Pixel art profile banner](./assets/c86ad1d3-b9c9-4d12-8437-ada116c9d4e6.jpg)
 
 ## About Me
 
@@ -47,4 +47,5 @@ Linux · Raspberry Pi OS · Armbian · Kali Linux · SSH · Apache · Python vir
 [![Random developer quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/PiyushSuthar/github-readme-quotes)
 
 <p align="center"><img src="./assets/607382.gif" alt="Pixel art animation" width="110"></p>
+
 
