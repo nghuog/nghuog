@@ -47,3 +47,4 @@ Linux · Raspberry Pi OS · Armbian · Kali Linux · SSH · Apache · Python vir
 [![Random developer quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/PiyushSuthar/github-readme-quotes)
 
 <p align="center"><img src="./assets/607382.gif" alt="Pixel art animation" width="110"></p>
+
