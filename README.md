@@ -1,6 +1,6 @@
 # 🌾 Hi, I'm [Your Name]!
 
-<img src="./assets/farm-scene.svg" alt="An original pixel art farm at sunset, with drifting clouds, glowing fireflies, and a waving farmer" width="100%">
+<img src="./assets/farm-scene.svg" alt="An original animated pixel art farm at sunset" width="100%">
 
 > Welcome to my little corner of GitHub — where I plant ideas, tend projects, and learn something new every day. 🌱
 
@@ -24,6 +24,21 @@
 | ☀️ Tending the farm | [What you'd like to finish next] |
 | ⭐ Big dream | [A long-term goal] |
 
+## 🎮 Pixel Art Collection
+
+I enjoy classic handheld-game pixel art. Here are a couple of pieces in my collection:
+
+<details>
+<summary>View the Pokémon overworld sprites and Emerald menu art</summary>
+
+<img src="./pokemon/DS%20_%20DSi%20-%20Pokemon%20HeartGold%20_%20SoulSilver%20-%20Overworld%20-%20Pokemon%20(3rd%20Generation,%20Overworld).png" alt="Pokémon overworld sprite sheet" width="420">
+
+<img src="./pokemon/Game%20Boy%20Advance%20-%20Pokemon%20Emerald%20-%20Miscellaneous%20-%20Pokemon%20Menu.png" alt="Pokémon Emerald menu interface sprite sheet" width="420">
+
+Reference page you shared: [The Spriters Resource — Pokémon Platinum](https://www.spriters-resource.com/ds_dsi/pokemonplatinum/asset/132564/)
+
+</details>
+
 ## 🔗 Find Me
 
 - GitHub: [@your-github-username](https://github.com/your-github-username)
@@ -33,3 +48,4 @@
 ---
 
 <p align="center"><i>Thanks for stopping by my little farm. Hope your day is peaceful and bright! 🌙</i></p>
+
