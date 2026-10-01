@@ -1,14 +1,12 @@
-# 👋 Hi, I'm [Your Name]
-
-`💻 Developer` · `🌱 Lifelong learner` · `🍢 Nem nướng fan`
+<p align="center">
+  <img src="./assets/1790880397042_562227380989954464_2706334198090754275_12c57df77b587e8aaeb33675e8512579.jpg" alt="Pixel-art profile banner" width="100%">
+</p>
 
 ## 💫 About Me
 
-Hello! I'm **[Your Name]**. I enjoy learning new technologies, building useful projects, and relaxing with cozy pixel-art games. My favorite food is **nem nướng**.
-
-- 🌱 Currently learning: **[What you're learning]**
-- 🔭 Working on: **[Your current project]**
-- 📍 Based in: **[City, Country]**
+- 🍢 Favorite food: **nem nướng**
+- 🎮 I enjoy cozy games and pixel art.
+- 🌱 Currently learning: **PHP**
 
 ## 🌐 Socials
 
@@ -21,12 +19,14 @@ Hello! I'm **[Your Name]**. I enjoy learning new technologies, building useful p
 
 ## 💻 Tech Stack
 
-<!-- Example icons: replace these with the languages and tools you actually use. -->
+| Languages | Web | Tools |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="40"> | <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" height="40"> | <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" height="40"> |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" alt="Example tech stack icons: HTML, CSS, JavaScript, Python, Git, GitHub, and VS Code">
+<p align="center">
+  <img src="./assets/607382.gif" alt="Pixel-art animated icon" width="110">
 </p>
 
 ---
 
-<p align="center"><code>🟩 🟩 🟨 🟨 🟫 🟫</code><br><sub>Thanks for stopping by!</sub></p>
+<p align="center"><sub>Thanks for stopping by!</sub></p>
