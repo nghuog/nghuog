@@ -1,36 +1,27 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Your Name]!
 
-### 💻 Developer · 🌱 Lifelong learner · 🎮 Pixel-art fan
+**💻 Developer · 🌱 Lifelong learner · 🍢 Nem nướng fan**
 
-## About Me
+<img src="./assets/vyE65f63KY2fxM9XHLos59-1200-80.png" alt="A cozy pixel-art farm scene" width="100%">
 
-| | |
-| --- | --- |
-| 📍 Location | [City, Country] |
-| 💼 Role | [Your role or what you study] |
-| 🌱 Learning | [Technologies or skills] |
-| 🔭 Working on | [Current project] |
-| 🎮 Interests | [Games, hobbies, or topics] |
-| 📫 Contact | [your-email@example.com](mailto:your-email@example.com) |
+## 🧑‍🌾 About Me
 
-## 🧰 Skills & Tools
+- 🌿 I enjoy learning new things and building useful projects.
+- 🍢 My favorite food is **nem nướng**.
+- 🎮 I like cozy games and pixel art.
+- 📍 Based in **[City, Country]**.
 
-`[Language]` · `[Framework]` · `[Tool]` · `[Database]`
+## 🛠️ Tech Stack
 
-## 🎮 Pixel Art I Like
+`[Language]` · `[Framework]` · `[Database]` · `[Tools]`
 
-<img src="./pokemon/DS%20_%20DSi%20-%20Pokemon%20HeartGold%20_%20SoulSilver%20-%20Overworld%20-%20Pokemon%20(3rd%20Generation,%20Overworld).png" alt="Pokémon overworld sprites" width="420">
+## 🌐 Find Me Online
 
-<img src="./pokemon/Game%20Boy%20Advance%20-%20Pokemon%20Emerald%20-%20Miscellaneous%20-%20Pokemon%20Menu.png" alt="Pokémon Emerald menu art" width="420">
-
-🔗 [Pokémon Platinum reference page](https://www.spriters-resource.com/ds_dsi/pokemonplatinum/asset/132564/)
-
-## 🔗 Find Me
-
-- 🐙 GitHub: [@your-github-username](https://github.com/your-github-username)
-- 💼 LinkedIn: [Your profile](https://www.linkedin.com/)
-- ✉️ Email: [Say hello](mailto:your-email@example.com)
+- 📸 Instagram: [@your-username](https://instagram.com/your-username)
+- 👍 Facebook: [Your profile](https://facebook.com/your-username)
+- 🎧 Discord: `your-username`
+- 💼 LinkedIn: [Your profile](https://linkedin.com/in/your-username)
 
 ---
 
-<p align="center">🌿 Thanks for visiting my profile! 🌿</p>
+<p align="center">🟩🟩🟩🟨🟨🟫🟫 &nbsp; Thanks for visiting! &nbsp; 🟫🟫🟨🟨🟩🟩🟩</p>
