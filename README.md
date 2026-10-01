@@ -4,18 +4,18 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%" valign="top">
       <h3>💫 About Me</h3>
-      <p>🍢 Favorite food: <b>nem nướng</b><br>
-      🎮 Cozy games and pixel art<br>
-      🌱 Currently learning PHP</p>
+      🍢 Nem nướng fan<br>
+      🎮 Cozy games & pixel art<br>
+      🌱 Exploring PHP
     </td>
-    <td width="50%" valign="top">
+    <td width="45%" valign="top">
       <h3>🌐 Socials</h3>
-      <a href="https://instagram.com/your-username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a><br>
-      <a href="https://facebook.com/your-username"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a><br>
-      <a href="https://discord.com/users/your-user-id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a><br>
-      <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+      <a href="https://instagram.com/your-username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+      <a href="https://facebook.com/your-username"><img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+      <a href="https://discord.com/users/your-user-id"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+      <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     </td>
   </tr>
 </table>
@@ -23,11 +23,11 @@
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,git,github,vscode" alt="PHP, HTML, CSS, JavaScript, Git, GitHub, and VS Code">
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,git,github,vscode&perline=7" alt="PHP, HTML, CSS, JavaScript, Git, GitHub, and VS Code" height="38">
 </p>
 
 <p align="center">
-  <img src="./assets/607382.gif" alt="Pixel-art animated icon" width="110">
+  <img src="./assets/607382.gif" alt="Pixel-art animated icon" width="96">
 </p>
 
 ## ✍️ Random Dev Quote
