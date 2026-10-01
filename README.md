@@ -1,35 +1,35 @@
-# 🌾 Xin chào, mình là [Tên của bạn]!
+# 🌾 Hi, I'm [Your Name]!
 
-<img src="./assets/farm-scene.svg" alt="Cảnh pixel art nông trại lúc hoàng hôn: mây trôi, đom đóm sáng và người nông dân vẫy tay" width="100%">
+<img src="./assets/farm-scene.svg" alt="An original pixel art farm at sunset, with drifting clouds, glowing fireflies, and a waving farmer" width="100%">
 
-> Một góc nhỏ của mình trên GitHub — nơi mình gieo ý tưởng, chăm chút dự án và học thêm điều mới mỗi ngày. 🌱
+> Welcome to my little corner of GitHub — where I plant ideas, tend projects, and learn something new every day. 🌱
 
-## 🧑‍🌾 Về mình
+## 🧑‍🌾 About Me
 
-- 👋 Mình là **[Tên của bạn]**, đến từ **[Thành phố / Quốc gia]**.
-- 💻 Mình đang tìm hiểu **[lĩnh vực hoặc công nghệ bạn quan tâm]**.
-- 🌻 Mình thích **[sở thích]**, làm dự án nhỏ và biến ý tưởng thành sản phẩm.
-- 🔭 Hiện mình đang xây dựng: **[Tên dự án hoặc mục tiêu hiện tại]**.
-- 📮 Liên hệ: **[email của bạn]**
+- 👋 I'm **[Your Name]**, based in **[City / Country]**.
+- 💻 I'm currently exploring **[your field or technologies of interest]**.
+- 🌻 I enjoy **[your hobbies]**, building small projects, and turning ideas into useful things.
+- 🔭 Currently working on: **[project or goal]**.
+- 📮 Reach me at: **[your email]**
 
-## 🧰 Đồ nghề trong ba lô
+## 🧰 Tools in My Backpack
 
-`[Ngôn ngữ lập trình]` · `[Framework]` · `[Công cụ]`
+`[Programming Language]` · `[Framework]` · `[Tools]`
 
-## 🗺️ Nhật ký hành trình
+## 🗺️ My Journey
 
-| Mùa | Mục tiêu |
+| Season | Goal |
 | --- | --- |
-| 🌱 Đang gieo hạt | [Kỹ năng hoặc dự án bạn đang học/làm] |
-| ☀️ Đang chăm vườn | [Việc bạn muốn hoàn thành tiếp theo] |
-| ⭐ Ước mơ | [Mục tiêu dài hạn] |
+| 🌱 Planting seeds | [A skill or project you're learning/building] |
+| ☀️ Tending the farm | [What you'd like to finish next] |
+| ⭐ Big dream | [A long-term goal] |
 
-## 🔗 Tìm mình ở đâu
+## 🔗 Find Me
 
-- GitHub: [@ten-github-cua-ban](https://github.com/ten-github-cua-ban)
-- LinkedIn: [Trang cá nhân](https://www.linkedin.com/)
-- Email: [Gửi email](mailto:email-cua-ban@example.com)
+- GitHub: [@your-github-username](https://github.com/your-github-username)
+- LinkedIn: [Your profile](https://www.linkedin.com/)
+- Email: [Say hello](mailto:your-email@example.com)
 
 ---
 
-<p align="center"><i>Cảm ơn bạn đã ghé thăm nông trại nhỏ của mình. Chúc bạn một ngày thật dịu dàng! 🌙</i></p>
+<p align="center"><i>Thanks for stopping by my little farm. Hope your day is peaceful and bright! 🌙</i></p>
