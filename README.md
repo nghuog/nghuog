@@ -3,7 +3,6 @@
 ## About Me
 
 - 🎓 Engineering student.
-- 🐧 I love **LINUX**.
 - 🍢 I love **NEM NUONG** and I'm marrying it soon
 
 ## Socials
